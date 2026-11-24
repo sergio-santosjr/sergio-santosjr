@@ -30,4 +30,4 @@ Tenho me dedicado a construir uma base sólida em lógica de programação, orie
 * **E-mail:** sergio.dev.santos@gmail.com
 * **Telefone / WhatsApp:** (34) 99173-5435
 * **Localização:** Uberlândia – MG
-*
+
