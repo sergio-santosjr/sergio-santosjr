@@ -20,8 +20,9 @@ Tenho me dedicado a construir uma base sólida em lógica de programação, orie
 * **[Calculadora Java (POO e Interfaces)](https://github.com/sergio-santosjr/Calculadora_Java_POO_Interface):** Aplicação aplicando Programação Orientada a Objetos, polimorfismo, interfaces e tratamento de exceções.
 * **[Testes de Caixa Branca — Saque Bancário](https://github.com/sergio-santosjr/Teste_Caixa_Branca_Opera-o_Saque):** Mapeamento de Grafo de Fluxo de Controle (CFG) e testes estruturais de cobertura em Python.
 * **[Jokenpô Web](https://github.com/sergio-santosjr/Jokenpo_JavaScript):** Jogo interativo desenvolvido com HTML, CSS e manipulação de DOM em JavaScript.
+
 * **[Modelagem de Dados — Sistema de Cinema](https://github.com/sergio-santosjr/Atividade_Modelagem_Dados):** Diagramas UML e modelagem estrutural de um sistema de cinema desenvolvidos no Visual Paradigm.
-*
+
 
 ---
 
